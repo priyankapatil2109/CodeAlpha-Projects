@@ -12,21 +12,20 @@
 
 ## 💻 Projects on GitHub
 
-### 1️⃣ **Data Visualization using Python**
-- 📄 **Description**: Developed a comprehensive data visualization project using Python libraries such as Matplotlib and Seaborn. This project showcases various types of plots and charts to represent data effectively, aiding in better understanding and insights.
-- 🛠 **Tech Stack**: Python, Matplotlib, Seaborn
-- 🔗 [View on GitHub](https://github.com/priyankapatil2109/Data-Visualization)
+### 1️⃣ **Web Scraping with Python**
+- 📄 **Description**: Implemented a web scraping project using Python's BeautifulSoup and Requests libraries. The project involves extracting data from websites and storing it in a structured format for further analysis.
+- 🛠 **Tech Stack**: Python, BeautifulSoup, Requests
+- 🔗 [View on GitHub](https://github.com/priyankapatil2109/Web-Scraping)
 
 ### 2️⃣ **Titanic Dataset Exploratory Data Analysis (EDA)**
 - 📄 **Description**: Performed an exploratory data analysis on the Titanic dataset to uncover patterns and insights related to passenger survival. The analysis includes data cleaning, visualization, and interpretation of various features influencing survival rates.
 - 🛠 **Tech Stack**: Python, Pandas, Matplotlib, Seaborn
 - 🔗 [View on GitHub](https://github.com/priyankapatil2109/Titanic-EDA)
 
-### 3️⃣ **Web Scraping with Python**
-- 📄 **Description**: Implemented a web scraping project using Python's BeautifulSoup and Requests libraries. The project involves extracting data from websites and storing it in a structured format for further analysis.
-- 🛠 **Tech Stack**: Python, BeautifulSoup, Requests
-- 🔗 [View on GitHub](https://github.com/priyankapatil2109/Web-Scraping)
-
+### 3️⃣ **Data Visualization using Python**
+- 📄 **Description**: Developed a comprehensive data visualization project using Python libraries such as Matplotlib and Seaborn. This project showcases various types of plots and charts to represent data effectively, aiding in better understanding and insights.
+- 🛠 **Tech Stack**: Python, Matplotlib, Seaborn
+- 🔗 [View on GitHub](https://github.com/priyankapatil2109/Data-Visualization)
 ---
 
 ## 🌐 Connect with Me
